@@ -14,19 +14,19 @@ presskit_download_link:
 app_icon: assets/appicon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: iTattoo AI # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: Free # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: Write a short tagline for your app.
+app_description: iTattoo AI is an AI-powered tattoo design generator that allows you to explore and create tattoo designs with ease.
 
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
 # Information About Yourself
-your_name: Batuhan Bag
+your_name: iTattoo AI
 your_link:
 your_city:
 email_address: appitattoo@gmail.com
 facebook_username:
-instagram_username: appitattoo
-twitter_username: appitattoo
-github_username: batuhanbag
+instagram_username: appitattooai
+twitter_username: appitattooai
+github_username:
 youtube_username:
 mastodon_link:
 

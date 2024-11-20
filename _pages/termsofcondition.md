@@ -1,3 +1,9 @@
+---
+layout: page
+title: Terms of Conditions
+include_in_header: true
+---
+
 # Terms and Conditions
 
 Last updated: November 21, 2024
