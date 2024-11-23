@@ -14,11 +14,60 @@ Please read these Terms and Conditions ("Terms", "Terms and Conditions") careful
 
 By accessing or using our Service, you agree to be bound by these Terms. If you disagree with any part of the terms, then you do not have permission to access or use the Service.
 
-## 2. Intellectual Property Rights
+## 2. Subscriptions and Payments
+
+### 2.1 Subscription Services
+
+iTattooAI offers the following auto-renewable subscription options:
+
+- Weekly Premium Subscription
+
+  - Duration: 1 week (renews automatically)
+  - Price: \$5.99 per week
+  - Features: All of the following:
+    'Unlimited tattoo generation',
+    'Unlimited AR Preview & Save',
+    'Fast processing',
+    'No ads'
+
+- Yearly Premium Subscription
+  - Duration: 1 year (renews automatically)
+  - Price: \$34.99 per year
+  - Features: All of the following:
+    'Unlimited tattoo generation',
+    'Unlimited AR Preview & Save',
+    'Fast processing',
+    'No ads'
+
+### 2.2 Subscription Terms
+
+- Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period
+- Your account will be charged for renewal within 24 hours prior to the end of the current period
+- You can manage and cancel your subscription by going to your Account Settings on the App Store
+- No refund will be provided for the unused portion of the term
+- Any unused portion of a free trial period will be forfeited when purchasing a subscription
+
+### 2.3 Price Changes
+
+- If the subscription price increases, you will be notified and asked to agree to the new price
+- If you do not agree to the price change, your subscription will be canceled at the end of the current period
+
+## 3. Subscription Cancellation
+
+You may cancel your subscription at any time by:
+
+1. Going to your iTunes Account Settings
+2. Selecting Subscriptions
+3. Selecting iTattooAI subscription
+4. Tapping "Cancel Subscription"
+
+The cancellation will take effect at the end of the current billing period.
+
+## 4. Intellectual Property Rights
 
 The Service and its original content, features, and functionality are and will remain the exclusive property of iTattooAI and its licensors. The Service is protected by copyright, trademark, and other laws of Turkey and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of iTattooAI.
 
-## 3. User Account
+## 5. User Account
 
 When you create an account with us, you guarantee that:
 
@@ -27,7 +76,7 @@ When you create an account with us, you guarantee that:
 - You are responsible for maintaining the confidentiality of your account and password
 - You accept responsibility for any and all activities that occur under your account
 
-## 4. Content Usage and Rights
+## 6. Content Usage and Rights
 
 By using the Service and uploading content, you grant us the right to:
 
@@ -37,7 +86,7 @@ By using the Service and uploading content, you grant us the right to:
 
 You retain all rights to your content, but grant us a license to use it within the scope of our Service.
 
-## 5. Prohibited Uses
+## 7. Prohibited Uses
 
 You agree not to use the Service:
 
@@ -47,7 +96,7 @@ You agree not to use the Service:
 - To upload any content that infringes on intellectual property rights
 - To upload any harmful, inappropriate, or illegal content
 
-## 6. User Content Guidelines
+## 8. User Content Guidelines
 
 When using our Service, you agree that any content you upload:
 
@@ -56,11 +105,11 @@ When using our Service, you agree that any content you upload:
 - Does not contain malware or harmful code
 - Complies with all applicable laws and regulations
 
-## 7. Termination
+## 9. Termination
 
 We may terminate or suspend your account and bar access to the Service immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever and without limitation, including but not limited to a breach of the Terms.
 
-## 8. Limitation of Liability
+## 10. Limitation of Liability
 
 In no event shall iTattooAI, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from:
 
@@ -69,23 +118,23 @@ In no event shall iTattooAI, nor its directors, employees, partners, agents, sup
 - Any content obtained from the Service
 - Unauthorized access, use or alteration of your transmissions or content
 
-## 9. Disclaimer
+## 11. Disclaimer
 
 Your use of the Service is at your sole risk. The Service is provided on an "AS IS" and "AS AVAILABLE" basis. The Service is provided without warranties of any kind, whether express or implied.
 
-## 10. Changes to Terms
+## 12. Changes to Terms
 
 We reserve the right to modify or replace these Terms at any time. If a revision is material, we will provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
 
-## 11. Privacy Policy
+## 13. Privacy Policy
 
 Please refer to our Privacy Policy for information about how we collect, use, and share your information. By using our Service, you agree to our Privacy Policy.
 
-## 12. Governing Law
+## 14. Governing Law
 
 These Terms shall be governed and construed in accordance with the laws of Turkey, without regard to its conflict of law provisions.
 
-## 13. Contact Us
+## 15. Contact Us
 
 If you have any questions about these Terms, please contact us at:
 
